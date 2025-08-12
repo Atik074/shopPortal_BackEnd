@@ -2,3 +2,4 @@
 node_modules 
 serviceAccountKey.json
 src/config/firebase/serviceAccountKey.json
+
